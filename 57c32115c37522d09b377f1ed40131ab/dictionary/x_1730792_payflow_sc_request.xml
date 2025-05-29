@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="25e131d9c3b522d09b377f1ed401313b" extends="task" label="sc_request" max_length="40" name="x_1730792_payflow_sc_request" text_index="true" type="collection">
+        <element label="Request item name" max_length="255" name="request_item_name" type="string"/>
         <element display="true" label="Requester" max_length="40" name="requester" reference="sys_user" type="reference"/>
         <element label="Request item" max_length="40" name="request_item" reference="x_1730792_payflow_sc_req_item" type="reference"/>
         <element label="Department" max_length="40" name="department" reference="sys_user_group" type="reference"/>
         <element label="Request Date" max_length="40" name="request_date" type="glide_date_time"/>
+        <element label="Request item price" max_length="40" name="request_item_price" type="integer"/>
     </element>
 </database>
