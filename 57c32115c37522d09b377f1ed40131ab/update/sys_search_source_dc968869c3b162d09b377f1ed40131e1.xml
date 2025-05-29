@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1730792_payflow_sc_request">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>PayFlow - x_1730792_payflow_sc_request</name>
+        <roles/>
+        <source_table>x_1730792_payflow_sc_request</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 12:59:27</sys_created_on>
+        <sys_id>dc968869c3b162d09b377f1ed40131e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PayFlow - x_1730792_payflow_sc_request</sys_name>
+        <sys_package display_value="PayFlow" source="x_1730792_payflow">57c32115c37522d09b377f1ed40131ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PayFlow">57c32115c37522d09b377f1ed40131ab</sys_scope>
+        <sys_update_name>sys_search_source_dc968869c3b162d09b377f1ed40131e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 12:59:27</sys_updated_on>
+    </sys_search_source>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Search</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 12:59:21</sys_created_on>
+        <sys_id>1686086996b162d0c8683539417ffcf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search</sys_name>
+        <sys_package display_value="PayFlow" source="x_1730792_payflow">57c32115c37522d09b377f1ed40131ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PayFlow">57c32115c37522d09b377f1ed40131ab</sys_scope>
+        <sys_update_name>sys_ux_screen_type_1686086996b162d0c8683539417ffcf7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 12:59:21</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=1686086996b162d0c8683539417ffcf7"/>
+</record_update>

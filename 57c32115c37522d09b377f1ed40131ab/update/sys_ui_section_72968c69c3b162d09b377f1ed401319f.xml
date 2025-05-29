@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="72968c69c3b162d09b377f1ed401319f" sys_domain="global" table="x_1730792_payflow_sc_request" version="3" view="workspace-payflow-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_id>3e96cc69c3b162d09b377f1ed40131b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1730792_payflow_sc_request" sys_domain="global" view="5e8608697bb162d0cbab9baa3caaa8fa">72968c69c3b162d09b377f1ed401319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_id>36968c69c3b162d09b377f1ed40131a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1730792_payflow_sc_request" sys_domain="global" view="5e8608697bb162d0cbab9baa3caaa8fa">72968c69c3b162d09b377f1ed401319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_id>3696cc69c3b162d09b377f1ed40131b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1730792_payflow_sc_request" sys_domain="global" view="5e8608697bb162d0cbab9baa3caaa8fa">72968c69c3b162d09b377f1ed401319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_item</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_id>b2968c69c3b162d09b377f1ed40131a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1730792_payflow_sc_request" sys_domain="global" view="5e8608697bb162d0cbab9baa3caaa8fa">72968c69c3b162d09b377f1ed401319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_id>3e96cc69c3b162d09b377f1ed40131b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1730792_payflow_sc_request" sys_domain="global" view="5e8608697bb162d0cbab9baa3caaa8fa">72968c69c3b162d09b377f1ed401319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_id>ba968c69c3b162d09b377f1ed40131a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1730792_payflow_sc_request" sys_domain="global" view="5e8608697bb162d0cbab9baa3caaa8fa">72968c69c3b162d09b377f1ed401319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_id>3696cc69c3b162d09b377f1ed40131b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1730792_payflow_sc_request" sys_domain="global" view="5e8608697bb162d0cbab9baa3caaa8fa">72968c69c3b162d09b377f1ed401319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_id>b2968c69c3b162d09b377f1ed40131a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1730792_payflow_sc_request" sys_domain="global" view="5e8608697bb162d0cbab9baa3caaa8fa">72968c69c3b162d09b377f1ed401319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_history</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_id>3e96cc69c3b162d09b377f1ed40131b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1730792_payflow_sc_request" sys_domain="global" view="5e8608697bb162d0cbab9baa3caaa8fa">72968c69c3b162d09b377f1ed401319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_id>ba968c69c3b162d09b377f1ed40131a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1730792_payflow_sc_request" sys_domain="global" view="5e8608697bb162d0cbab9baa3caaa8fa">72968c69c3b162d09b377f1ed401319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_id>3696cc69c3b162d09b377f1ed40131b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1730792_payflow_sc_request" sys_domain="global" view="5e8608697bb162d0cbab9baa3caaa8fa">72968c69c3b162d09b377f1ed401319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1730792_payflow_sc_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 12:59:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72968c69c3b162d09b377f1ed401319f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1730792_payflow_sc_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PayFlow" source="x_1730792_payflow">57c32115c37522d09b377f1ed40131ab</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PayFlow">57c32115c37522d09b377f1ed40131ab</sys_scope>
+            <sys_update_name>sys_ui_section_72968c69c3b162d09b377f1ed401319f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 12:59:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace PayFlow 0" name="workspace-payflow-0">5e8608697bb162d0cbab9baa3caaa8fa</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a0b53111c3f522d09b377f1ed40131f5" label="sc_req_item" max_length="40" name="x_1730792_payflow_sc_req_item" text_index="true" type="collection">
+        <element display="true" label="name" max_length="40" name="name" type="string"/>
+        <element label="price" max_length="40" name="price" type="integer"/>
+    </element>
+</database>

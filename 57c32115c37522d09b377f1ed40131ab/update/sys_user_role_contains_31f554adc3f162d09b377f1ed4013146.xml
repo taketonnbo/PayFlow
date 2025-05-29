@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="app_service_user" name="app_service_user">b3dd3ccec32203003e76741e81d3ae95</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 14:06:43</sys_created_on>
+        <sys_id>31f554adc3f162d09b377f1ed4013146</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.app_service_user</sys_name>
+        <sys_package display_value="PayFlow" source="x_1730792_payflow">57c32115c37522d09b377f1ed40131ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PayFlow">57c32115c37522d09b377f1ed40131ab</sys_scope>
+        <sys_update_name>sys_user_role_contains_31f554adc3f162d09b377f1ed4013146</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 14:06:43</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

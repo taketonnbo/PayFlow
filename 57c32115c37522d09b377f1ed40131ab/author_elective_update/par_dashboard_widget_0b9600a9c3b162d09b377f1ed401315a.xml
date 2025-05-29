@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">8f9600a9c3b162d09b377f1ed4013145</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1730792_payflow_sc_request","fixedQuery":"","listTitle":"My Work","columns":"","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>18</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 12:59:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0b9600a9c3b162d09b377f1ed401315a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="PayFlow" source="x_1730792_payflow">57c32115c37522d09b377f1ed40131ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PayFlow">57c32115c37522d09b377f1ed40131ab</sys_scope>
+        <sys_update_name>par_dashboard_widget_0b9600a9c3b162d09b377f1ed401315a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 12:59:38</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>12</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PayFlow">57c32115c37522d09b377f1ed40131ab</application>
+        <file_path/>
+        <instance_id>6c4bbc7ffbd35258843df4344eefdc7e</instance_id>
+        <instance_name>dev294613</instance_name>
+        <name>par_dashboard_widget_0b9600a9c3b162d09b377f1ed401315a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">8f9600a9c3b162d09b377f1ed4013145</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1730792_payflow_sc_request","fixedQuery":"","listTitle":"My Work","columns":"","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":"","contextMenuActions":[]}</component_props><h>18</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-28 12:59:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0b9600a9c3b162d09b377f1ed401315a</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="PayFlow" source="x_1730792_payflow">57c32115c37522d09b377f1ed40131ab</sys_package><sys_policy/><sys_scope display_value="PayFlow">57c32115c37522d09b377f1ed40131ab</sys_scope><sys_update_name>par_dashboard_widget_0b9600a9c3b162d09b377f1ed401315a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-28 12:59:38</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>12</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1444513405</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1fc3e159c37522d09b377f1ed40131e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 12:59:38</sys_created_on>
+        <sys_id>0b9600a9c3b162d09b377f1ed401315c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19716fa17c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 12:59:38</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>0f9600a9ecb162d0eaf08a2bcbc2ba5b</update_guid>
+        <update_guid_history>0f9600a9ecb162d0eaf08a2bcbc2ba5b:-1444513405</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">db9600a9c3b162d09b377f1ed4013184</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 12:59:38</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>24b9a315726d46b48d62e2f1b30619c4</sys_id>
+        <sys_metadata>0b9600a9c3b162d09b377f1ed401315a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="PayFlow" source="x_1730792_payflow">57c32115c37522d09b377f1ed40131ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="PayFlow">57c32115c37522d09b377f1ed40131ab</sys_scope>
+        <sys_scope_delete display_value="">0b44f5a741d646e0902571ed5a471601</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_0b9600a9c3b162d09b377f1ed401315a</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_0b9600a9c3b162d09b377f1ed401315a">0b9600a9c3b162d09b377f1ed401315c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 12:59:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
